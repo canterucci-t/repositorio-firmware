@@ -4,6 +4,7 @@ ESP32 no Wokwi roda o **Firmware 1.0**, consulta o `version.json` no GitHub, bai
 
 ## Integrantes
 | Nome | RM |
+|---|---|
 | Erick Gimenez | RM564748 |
 | Henrique Boscoli | RM563651 |
 | Joao Henrique | RM563578 |
