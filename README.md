@@ -11,7 +11,7 @@ ESP32 no Wokwi roda o **Firmware 1.0**, consulta o `version.json` no GitHub, bai
 | Tomazzo Canterucci | RM565566 |
 
 ## Links
-- Wokwi: https://wokwi.com/projects/475801717654352897
+- Wokwi: https://wokwi.com/projects/475802110355551233
 - Repositório: https://github.com/canterucci-t/repositorio-firmware
 
 ## Arquivos
